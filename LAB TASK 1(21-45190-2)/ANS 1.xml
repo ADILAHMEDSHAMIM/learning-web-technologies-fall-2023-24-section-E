@@ -1,0 +1,24 @@
+<INFORMATIONS>
+	<Device 1>
+		<name>samsung</name>
+		<id>11</id>
+		<unit price>35000</unit price>
+		<stock>50</stock>
+		<status>1</status>
+	</Device 1>
+	<Device 2>
+		<name>htc</name>
+		<id>20</id>
+		<unit price>65300</unit price>
+		<stock>35</stock>
+		<status>0</status>
+	</Device 2>
+	<Device 3>
+		<name>nokia</name>
+		<id>23</id>
+		<unit price>25100</unit price>
+		<stock>100</stock>
+		<status>1</status>
+	</Device 3>
+</INFORMATIONS>
+	
